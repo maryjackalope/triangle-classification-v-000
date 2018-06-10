@@ -26,5 +26,6 @@ class Triangle
   class TriangleError < StandardError
     puts "This is not a valid triangle"
   end
- end	 
+ end
+ end
 end
