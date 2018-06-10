@@ -1,4 +1,4 @@
-class Triangle (:equilateral, :isosceles, :scalene)
+class Triangle 
   
   def kind 
     
