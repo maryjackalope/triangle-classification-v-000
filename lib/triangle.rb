@@ -27,5 +27,4 @@ class Triangle
     puts "This is not a valid triangle"
   end
  end
- end
-end
+
